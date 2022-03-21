@@ -1,4 +1,8 @@
-# Joel S. Y. C. Blog
+# Joel's Blog
 
 ## General Overview
-This is the Github repository for my personal blog. This is made using Jekyll.
+This is the Github repository for my personal blog. It uses Jekyll.
+
+## Technologies
+- Jekyll (and its dependencies)
+- Github Pages
