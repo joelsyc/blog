@@ -4,5 +4,5 @@
 This is the Github repository for my personal blog. It uses Jekyll.
 
 ## Technologies
-- Jekyll (and its dependencies)
+- Jekyll (and Ruby, Gem and Bundler)
 - Github Pages
